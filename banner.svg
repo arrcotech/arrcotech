@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Arcotech — Digital Product Engineering</title>
+  <desc id="desc">A dark, precise technology banner with a luminous geometric A mark and cyan-to-violet accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="80" y1="28" x2="1490" y2="500" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1220"/><stop offset=".58" stop-color="#080D17"/><stop offset="1" stop-color="#11152A"/></linearGradient>
+    <linearGradient id="accent" x1="330" y1="110" x2="710" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#6AF1EA"/><stop offset=".5" stop-color="#67A9FF"/><stop offset="1" stop-color="#B59BFF"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#63E7E8" stop-opacity=".8"/><stop offset="1" stop-color="#9B8BFF" stop-opacity=".08"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(460 0 0 300 420 240)" gradientUnits="userSpaceOnUse"><stop stop-color="#37DCE0" stop-opacity=".2"/><stop offset="1" stop-color="#37DCE0" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" stroke="#A9C1E8" stroke-opacity=".07" stroke-width="1"/></pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1600" height="520" rx="30" fill="url(#bg)"/>
+  <rect width="1600" height="520" rx="30" fill="url(#grid)"/>
+  <rect width="1600" height="520" rx="30" fill="url(#glow)"/>
+  <path d="M0 420H1600" stroke="#9FB5D7" stroke-opacity=".08"/>
+  <path d="M1120 0V520M1162 0V520M1204 0V520" stroke="#9FB5D7" stroke-opacity=".035"/>
+  <circle cx="430" cy="250" r="170" fill="#49DDE1" fill-opacity=".12" filter="url(#blur)"/>
+  <g opacity=".95">
+    <path d="M270 360 430 88 590 360" stroke="url(#accent)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M352 270H508" stroke="url(#accent)" stroke-width="13" stroke-linecap="round"/>
+    <path d="M430 88 590 360" stroke="url(#line)" stroke-width="2" stroke-dasharray="7 12"/>
+    <circle cx="430" cy="88" r="8" fill="#75F2E9"/>
+    <circle cx="270" cy="360" r="8" fill="#75F2E9"/>
+    <circle cx="590" cy="360" r="8" fill="#B69BFF"/>
+  </g>
+  <g fill="#EAF3FF">
+    <text x="700" y="226" font-family="Inter, Arial, sans-serif" font-size="86" font-weight="700" letter-spacing="-4">ARCOTECH</text>
+    <text x="706" y="286" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="6" fill="#9FB1C9">DIGITAL PRODUCT ENGINEERING</text>
+    <text x="706" y="348" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="500" letter-spacing="2.8" fill="#6DE4E2">DESIGN  /  ENGINEERING  /  INTELLIGENCE</text>
+  </g>
+  <g stroke="#7EDFE4" stroke-opacity=".42">
+    <path d="M700 386H1110"/>
+    <path d="M700 386H770" stroke-width="3"/>
+  </g>
+  <g fill="#A6B7CD" font-family="Inter, Arial, sans-serif" font-size="12" letter-spacing="2.5">
+    <text x="1300" y="80" text-anchor="end">IRAN / INDEPENDENT SOFTWARE STUDIO</text>
+    <text x="1300" y="450" text-anchor="end">ARRCOTECH.IR</text>
+  </g>
+  <circle cx="1320" cy="112" r="3" fill="#6DE4E2"/>
+  <circle cx="1350" cy="112" r="3" fill="#8EA9FF"/>
+  <circle cx="1380" cy="112" r="3" fill="#B69BFF"/>
+  <path d="M1260 145h90m-90 14h54m-54 14h72" stroke="#A7B9D4" stroke-opacity=".2" stroke-linecap="round"/>
+  <rect x="1" y="1" width="1598" height="518" rx="29" stroke="#A5C4E8" stroke-opacity=".16"/>
+</svg>
